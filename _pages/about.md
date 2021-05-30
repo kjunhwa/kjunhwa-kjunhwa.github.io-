@@ -5,7 +5,7 @@ excerpt: "About Me"
 modified: 2021-05-31
 search: true
 header:
-  image: /assets/images/MAIN.png
+  image: /assets/images/unsplash-image-1.png
 ---
 My name is JUN-HWA KIM.  
 I'm a PhD student in the Department of Electrical Engineering, Dongguk University, Seoul. 
