@@ -2,84 +2,91 @@
 permalink: /about/
 title: "About"
 excerpt: "About Me"
-modified: 2019-06-07
+modified: 2021-05-31
 search: true
 header:
-  image: /assets/images/LAB_CONTEXT.png
+  image: /assets/images/MAIN.png
 ---
+My name is JUN-HWA KIM.  
+I'm a PhD student in the Department of Electrical Engineering, Dongguk University, Seoul. 
+I am interested in image classification, Video processing, Video recognition, object detection, and Gerative model. 
 
-## 랩 소개
+Also, I like to join the competition such as Kaggle, Dacon. 
 
-랩 맥락은 Image caption, text to image GAN 분야에 관심을 갖고 연구하는 연구그룹입니다. 관련 논문 학습, 재현과 더불어 연구과정중 계속해서 새로운 아이디어를 추구 ,시도해보기 위해 모였습니다. image to text < = > text to image 두 역함수관계의 도메인을 주요 주제로 삼고 있습니다.
+I enjoy to share the knowledge and discussion, So please contact any time to my e-mail : jhkim414@naver.com 
 
-또한 이번 분기에는 고문서 복원프로젝트를  진행할 예정입니다.
+## [Education] 
 
+1. [Bachelor, 2013.3 - 2019.2], Department of Electrical & Electronic Engineering in Dongguk University, Seoul. 
+- GPA : 3.76 (139 credit) 
+2. [Master, 2019.3 - 2020.8], Department of Electrical & Electronic Engineering in Dongguk University, Seoul. 
+- GPA : 4.5 / 4.5 ( 27 credit) 
+3. [PhD, 2020.9 - ], Department of Electrical & Electronic Engineering in Dongguk University, Seoul. 
 
+## [Teaching assistant]
 
-(이전성과 및 더 자세한 소개 <https://github.com/labcontext/Introduction> )
+1. [2018 - 1st semester] : Random signal theory 
+2. [2018 - 2nd semester] : Digital signal processing and Design, Image processing 
+3. [2019 - 1st semester] : Digital signal processing and Design 
+4. [2019 - 2nd semester] : Signal and System 
+5. [2020 - 1st semester] : Capston Design 
+6. [2020 - 1st semester] : Signal and System, Image processing 
+7. [2021 - 1st semester] : Random signal theory 
 
+## [International Journal] 
 
+1. Kim, Jun-Hwa, and Chee Sun Won. "Action recognition in videos using pre-trained 2D convolutional neural networks." IEEE Access 8 (2020): 60179-60188. 
 
-## 연구원 소개 
+## [International Conference] 
 
-- **★김인수(현 랩장)★**
+1. Kim, Jun-Hwa, and Chee Sun Won. "Emotion Enhancement for Facial Images Using GAN." In 2020 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), pp. 1-4. IEEE, 2020. 
 
-  소소하거나 마법 같은 딥러닝 알고리즘 개발이 목표입니다. 지금은 GAN에 매력을 느껴 GAN 공부를 하고 있습니다. 이론적 바탕을 넓히면 더 넓은 시야를 가질 수 있을 것 같습니다  
-  
-- **★★강우람(명예 랩장)★★**
+## [Domestic Conference] 
 
-  영상기반 감정인식부터 이미지 해설관련 연구까지 다양한 연구과제에 참여 해 보았고 간단한 머신 설계에서부터 딥러닝기반 모델의 설계까지 두루 관심을 가지고 공부하고 있습니다.  연구라는 것이 단지 랩안의 데이터로만 끝나는게 아니라 실제 환경으로의 적용되는 기술과 세상을 널리 이롭게 만드는 기술 개발에 관심이 많습니다
+1. 김준화, 노경준, 장영지, 전병훈. "미세먼지 감소 IoT 시스템", Proceedings of KIIT Conference, 2018. 
+2. 김준화, 원치선. "GAN을 이용한 얼굴 훈련 영상 데이터의 감정 특성 강화", kspc, 2019. 
 
-- **김준화(연구원)**
+## [Domestic Patents] 
 
-  학부 재학 중 우연한 기회로 alextnet을 접하게 되어 딥러닝에 빠진 학생입니다. 현재 디지털영상처리 연구실에서 영상 관련 공부와 함께 딥러닝 공부와 연구를 진행하고 있습니다. 연구실 동료들 이외에 다른 연구실 연구자들과 교류하고 싶어서 계속 참여하고 있습니다. 
+1. [Not registered yet] METHOD AND APPARATUS FOR PROCESSING VIDEO DATA TO UTILIZE DEEP NEURAL NETWORK ARCHITECTURES DEVELOPED FOR STILL IMAGES 
 
-- **도미래(연구원 , 블로그 운영자)**
+## [Books] 
 
-  인공지능 분야 교수님 아래에서 학부 연구생으로 연구를 진행하고 있습니다. 다양한 분야를 시도하는 도중 GAN과 자연어 처리, 이미지 처리를 결합하여 연구를 진행하는 팀을 알게되어 흥미가 생겨 참여하게 되었습니다.  또한 다양한 분야의 사람들과 연구를 진행하는 것이 정말 재미있을 것같아 참여하게 되었습니다.
+1. Dacon Competition 1st Prize Solution, WIKI-BOOKS, 2021-01-22 
 
-- **홍은영(연구원)**
+## [Competitions] 
 
-  딥러닝에 관심이 생겨 GAN에 대해 알게 되었습니다. 코드나 딥러닝에 대해 미숙한 수준이지만 조금씩 공부하면서 실력을 키우고 싶습니다.
+1. [2019] KERC  
+  - Subject : Facial expression recognition in Videos
+  - Results : 1st prize
+2. [2020] WONKWANG University Medical Convergence Research Center, AI Start Challenge
+  - Subject : Development of artificial intelligence model for detection and visualization of urinary tract stones patients' absences using medical image data for challenge  
+  - Results : 3rd prize
+3. [2020] Dacon 
+  - Subject : Semiconductor thin film thickness analysis
+  - Results : 1st prize
+4. [2020] NIPA
+  - Subject : Deep fake image classification
+  - Results : 3rd prize
+5. [2020] KERC
+  - Subject : Complex Facial expression recognition in Videos
+  - Results : 3rd prize
 
-- **김인수(연구원)**
+## [Hackathon]
 
-  소소하거나 마법 같은 딥러닝 알고리즘 개발이 목표입니다. 지금은 GAN에 매력을 느껴 GAN 공부를 하고 있습니다. 이론적 바탕을 넓히면 더 넓은 시야를 가질 수 있을 것 같습니다  
+1. [2019] ICT Hackathon
+  - Subject : Sewer line defect detection
+  - Results : Seoul Mayor Award
 
-- **장광훈(연구원)**
+## [Language skill] 
 
-  미디어 콘텐츠 산업에 종사하고 있습니다. Vision생성, 자연어 인식/생성과 3D image mapping에 많은 관심을 가지고 있습니다. 현재는 GAN을 통한 조건적 이미지 생성에 관해 공부하고 있습니다.
+korean 
+English(TOEIC : 880, OPIC : IM2)  
 
-- **박산희(연구원)**
+## [Programming language skill] 
 
-  문맥 인식 프로젝트, 음악 생성 프로젝트 등 다양한 프로젝트에 참여해보았습니다. 현재는 개발자로 일을 하고 있고, 다양한 데이터를 분석하고 신경망 모델들을 구성해서 재미있고 이로운 결과를 만들어내는데 관심있습니다.
+python(pytorch, tensorflow, keras) 
+matlab 
+C 
+HTML 
 
-- **김현우(명예 연구원)**
-
-  선린인터넷고등학교에 입학하여 개발공부를 하던 중, 머신러닝에 관심이 생겨 딥러닝을 공부하기 시작했습니다. 처음에는 딥러닝을 단순한 코드로 접했었습니다. 하지만 다양한 종류의 딥러닝 알고리즘을 접하면서 원리, 이론에도 관심이 생겨 비록 고등학생이지만 꼭 공부해보고 싶어, 이 곳에 참여하게 되었습니다.
-
-
-- **최원조(명예 연구원)**
-
-  게임개발자였으며, 인공지능 분야에 발을 들인지는 오래되지 않았습니다. Reinforcement Learning을 이용한 게임플레이 에이전트를 만들기 시작하면서 분야에 발을 들였습니다. 현재는 자연어처리쪽에서 일하며 해당 분야에 대해 공부하고있습니다. 현재 관심사는 자연어생성입니다. 잘부탁드립니다.
-
-  
-
-  
-
-## 5기 연구 계획 소개 
-
-##### 1. 고문서 복원 프로젝트 (5기 메인 프로젝트 )
-
-- 고성능 컴퓨터 지원(NIPA)
-
-- 모델 서치 중...
-
-- 데이터 수집 
-
-  
-
-##### 2. 항시 진행
-
-- 논문 리딩
-- 문서화 작업
