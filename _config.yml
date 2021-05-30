@@ -332,7 +332,7 @@ defaults:
       
 # _posts/kaggle
   - scope:
-      path: "_posts/kaggle"
+      path: "_posts/DeepReview"
       type: posts
     values:
       layout: single
