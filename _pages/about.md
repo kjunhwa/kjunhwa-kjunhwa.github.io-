@@ -4,6 +4,7 @@ title: "About"
 excerpt: "About Me"
 modified: 2021-05-31
 search: true
+comments: true
 header:
   image: /assets/images/MAIN.png
 ---
